@@ -38,7 +38,7 @@ export default function Contact() {
           <div className="space-y-3 text-gray-700">
             <p>📍 Bishnupur, Bankura, West Bengal</p>
             <p>📞 03211244615</p>
-            <p>✉️ smritichanak@gmail.com</p>
+            <p>✉️ SS@gmail.com</p>
           </div>
         </div>
 
